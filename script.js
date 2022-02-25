@@ -74,8 +74,8 @@ const persona1 = {
     edad: 27,
 };
 const persona2 = {
-    nombre: "Martha",
-    apellido: "Rodriguez",
+    nombre: "Xayuri",
+    apellido: "Vega",
     edad: 26,
 };
 const arregloPersonas = []
